@@ -1,6 +1,8 @@
 # meals-app
 The meals application made in the React-Native course
 
+Thanks to Maximilian Schwarzmüller for the course.
+
 ## Screenshots
 
 <a href="https://ibb.co/nM6ddJq"><img src="https://i.ibb.co/LdYjj7D/Simulator-Screen-Shot-i-Phone-14-Pro-Max-2022-11-03-at-15-25-28.png" alt="Simulator-Screen-Shot-i-Phone-14-Pro-Max-2022-11-03-at-15-25-28" border="0"></a>
